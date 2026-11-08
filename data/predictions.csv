@@ -1,0 +1,7 @@
+split,group,y,p
+in,urban,1,0.91
+in,rural,0,0.18
+in,urban,1,0.82
+out,urban,1,0.63
+out,rural,1,0.42
+out,rural,0,0.31
